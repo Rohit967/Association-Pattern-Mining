@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 12 16:05:38 2018
-
-@author name: Ragavander Rohit Walthaty
-          ID: 999992844
-"""
 
 #Please find the frequent pattern and association rules for the data set italy_retial.csv. 
 import pandas as pd
